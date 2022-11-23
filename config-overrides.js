@@ -5,4 +5,3 @@ module.exports = override(
   useBabelRc()
 );
 // enable legacy decorators babel plugin
-
